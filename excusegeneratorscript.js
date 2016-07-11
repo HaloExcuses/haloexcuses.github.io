@@ -22,7 +22,20 @@ var apology = [
 					
 					"I'd have better REQ cards, except ",
 					
-					"I would have finished the campaign, except "
+					"I would have finished the campaign, except ",
+
+                    "We would have won the Warzone Firefight game, but ",
+
+                    "I only got infected because",
+
+                    "I wouldn't have been infected, but ",
+
+                    "I would have infected all the survivors, but ",
+
+                    "I would have finished my forge map, except ",
+
+                    "I would have made a Machinima, but ",
+
 ]; 
 var subject = [ 
  					"343i ", 
@@ -93,8 +106,17 @@ var subject = [
 					
 					"that warthog ",
 					
-					"this grunt "
+					"this grunt ",
+
+                    "Deacon Pipap ",
+
+                    "That Grunt Goblin ",
+
+                    "Warzone Firefight ",
 	
+                    "The Halo 2 BR ",
+
+                    "Bravo "
 ];
 var action = [ 
  					"is lagging.", 
@@ -135,6 +157,10 @@ var action = [
 					
 					"is looking at me funny.",
 					
-					"is spooky."
+					"is spooky.",
+
+                    "needs a nerf.",
+
+                    "stole my assasination."
 ];
 

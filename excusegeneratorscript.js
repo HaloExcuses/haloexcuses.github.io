@@ -100,13 +100,17 @@ var subject = [
 					
 					"Bill Gates ",
 					
-					"Rhabby_V ",
+					"Proximitty ",
 					
 					"my hdmi cord ",
 					
 					"that warthog ",
 					
 					"this grunt ",
+					
+					"Travis G Money ",
+					
+					"Luke The Notable ",
 
                     "Deacon Pipap ",
 
@@ -160,6 +164,8 @@ var action = [
 					"is spooky.",
 
                     "needs a nerf.",
+                    
+                    "got hacked.",
 
                     "stole my assasination."
 ];

@@ -26,7 +26,7 @@ var apology = [
 
                     "We would have won the Warzone Firefight game, but ",
 
-                    "I only got infected because",
+                    "I only got infected because ",
 
                     "I wouldn't have been infected, but ",
 
